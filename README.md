@@ -7,7 +7,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <REPOSITORY-URL>
+   git clone https://github.com/bensalah1992/hack-the-button
    cd hack-the-button
 
 ## Dependencies
