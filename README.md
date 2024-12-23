@@ -9,3 +9,15 @@
    ```bash
    git clone <REPOSITORY-URL>
    cd hack-the-button
+
+## Dependencies
+2. Install dependencies:
+   ```bash
+   npm install
+
+## Server
+3. Start dev server:
+   ```bash
+   npm run dev
+
+4.	Open the app in your browser at http://localhost:3000
