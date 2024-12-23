@@ -23,7 +23,7 @@ export default function Game() {
     setGameOver(false);
     setTimeLeft(15);
     setScore(0);
-    setButtonPosition({ top: "50%", left: "50%" }); // Reset Position
+    setButtonPosition({ top: "50%", left: "50%" }); // Reset pos
   };
 
   const handleClick = () => {
@@ -38,7 +38,7 @@ export default function Game() {
 
   return (
     <div className="game-container">
-      <h1 className="game-title">Hack the Button!</h1> {/* Spielname bleibt immer sichtbar */}
+      <h1 className="game-title">Hack the Button!</h1>
       {!isGameStarted ? (
         <button className="hacker-start-button" onClick={startGame}>
           Start Game
