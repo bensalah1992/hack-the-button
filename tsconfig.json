@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "jsx": "preserve", // oder "react-jsx" bei neueren Projekten
+    "jsx": "preserve",
     "target": "esnext",
     "module": "esnext",
     "strict": true,
